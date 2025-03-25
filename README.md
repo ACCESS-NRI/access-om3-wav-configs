@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **This repository has been archived. The configurations that used to be developed in this repository have been moved to [`ACCESS-NRI/access-om3-configs`](https://github.com/ACCESS-NRI/access-om3-configs) and are being developed there.**
+
 # MOM6-CICE6-WW3-datm-drof configurations for ACCESS-OM3
 
 This repository contains several
